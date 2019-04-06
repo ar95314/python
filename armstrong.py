@@ -1,4 +1,4 @@
-a=int(raw_input())
+n=int(raw_input())
 b=int(raw_input())
  
 for n in range(a,b):
